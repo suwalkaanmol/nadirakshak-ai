@@ -77,6 +77,8 @@ Open [http://localhost:8080](http://localhost:8080) to interact with the full li
 
 ---
 
-## 👥 Authors
+## 👥 Team
+- **Team Leader**: Anmol Suwalka
+- **Team Member**: Tejasvi Gautam
 - **Event**: Build with AI: Code for Communities 2.0 (Google Cloud & GDG India)
-- **Author**: Anmol Suwalka & Team (tejasvigautam2007)
+- **Track**: Clean Air & Climate Resilience

@@ -82,8 +82,8 @@ story.append(Paragraph("A Proactive Civic Climate Resilience Platform Built with
 story.append(Spacer(1, 25))
 
 meta_data = [
-    [Paragraph("<b>Track:</b> Clean Air & Climate Resilience", bullet_style), Paragraph("<b>Target User:</b> District Magistrates, MPs & Urban Local Bodies", bullet_style)],
-    [Paragraph("<b>Tech:</b> Gemini 1.5 Flash, Vertex AI, Earth Engine", bullet_style), Paragraph("<b>Participant:</b> Anmol Suwalka & Team (tejasvigautam2007)", bullet_style)]
+    [Paragraph("<b>Track:</b> Clean Air & Climate Resilience", bullet_style), Paragraph("<b>Team Leader:</b> Anmol Suwalka", bullet_style)],
+    [Paragraph("<b>Tech:</b> Gemini 1.5 Flash, Vertex AI, Earth Engine", bullet_style), Paragraph("<b>Team Member:</b> Tejasvi Gautam", bullet_style)]
 ]
 t = Table(meta_data, colWidths=[360, 360])
 t.setStyle(TableStyle([
@@ -288,8 +288,8 @@ conclusion_box = [
     [Paragraph("<b>Built for:</b> Code for Communities 2.0 (Google Cloud & GDG India)<br/>"
                "<b>Track:</b> Clean Air & Climate Resilience<br/>"
                "<b>Live Prototype:</b> Interactive Web Dashboard with Gemini 1.5 Multimodal Silt Vision<br/>"
-               "<b>GitHub:</b> https://github.com/tejasvigautam2007/nadirakshak-ai<br/>"
-               "<b>Author:</b> Anmol Suwalka & Team", ParagraphStyle('Conc', parent=body_style, fontSize=11, leading=16))]
+               "<b>Team Leader:</b> Anmol Suwalka<br/>"
+               "<b>Team Member:</b> Tejasvi Gautam", ParagraphStyle('Conc', parent=body_style, fontSize=11, leading=16))]
 ]
 t = Table(conclusion_box, colWidths=[720])
 t.setStyle(TableStyle([
